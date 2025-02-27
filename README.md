@@ -13,7 +13,7 @@
 
 ### Lv2. N+1 문제
 
-JPQL fetch join을 사용하여 N+1 문제를 해결하고 있는 TodoRepository가 있습니다. 이를 동일한 동작을 하는 @EntityGraph 기반의 구현으로 수정해주세요.
+<br> JPQL fetch join을 사용하여 N+1 문제를 해결하고 있는 TodoRepository가 있습니다. 이를 동일한 동작을 하는 @EntityGraph 기반의 구현으로 수정해주세요.
 <br>-> Refactor : Lv2 N+1 problem
 ---
 
